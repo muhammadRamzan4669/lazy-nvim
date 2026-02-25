@@ -123,6 +123,7 @@ return {
         -- "c",
         "bash",
         "html",
+        "css",
         "javascript",
         "json",
         "lua",
